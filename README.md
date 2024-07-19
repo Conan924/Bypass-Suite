@@ -12,7 +12,7 @@
 
 ## 安装
 
-1. 下载[Bypass Suite JAR 文件](链接到插件的JAR文件)。
+1. 下载[Bypass Suite JAR 文件]([https://github.com/Conan924/Bypass-Suite/releases/download/V1.0/BypassSuite-all.jar])。
 2. 打开 Burp Suite。
 3. 转到 "Extender" 标签页，然后选择 "Extensions"。
 4. 点击 "Add" 按钮。
